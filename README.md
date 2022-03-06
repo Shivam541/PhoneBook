@@ -18,5 +18,5 @@ This app is used to manage our contact numbers. This app can -
 Contributions -  
 <ul>
 <li><strong>Shivam Garg</strong> Created Backend i.e. Business Layer of application using java. Used local storage of android to store ad retrieve contacts.</li>
-<li><strong>Udit Jain</strong> managed FrontEnd, UI using Android <link>https://github.com/Shivam541</link></li>
+<li><strong>Udit Jain</strong> managed FrontEnd, UI using Android <link>https://github.com/uditjain27</link></li>
 </ul>
